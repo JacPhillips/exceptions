@@ -1,0 +1,4 @@
+
+class InsufficientFundsException(Exception):
+    pass
+
